@@ -12,4 +12,18 @@ Interesting Chinese or China-related videos
 
 [Huang's World - Chengdu](https://www.youtube.com/watch?v=1bfL3QE2BpI&index=19&list=PLnPDn1Lb79JEvKZ42CFMsV-DUuUCsx1R_)
 
+[The Devastating Effects of Pollution in China](https://www.youtube.com/watch?v=q4DtOhe2LfQ)
 
+[China's Communist Kindergarten](https://www.youtube.com/watch?v=zKfsx8xGef8)
+
+[China's Elite Female Bodyguards](https://www.youtube.com/watch?v=i0o7lajjzBg)
+
+[Dining on Dogs in Yulin](https://www.youtube.com/watch?v=YfaZeIxHFUM)
+
+[From 'Iron Girls' to 'Leftovers' - Independent Women in China](https://www.youtube.com/watch?v=QarOjjKfseo)
+
+[Hong Kong Tattoo Legend](https://www.youtube.com/watch?v=w-I6JsL54uc)
+
+[Chinese Penis Restaurant](https://www.youtube.com/watch?v=isqOzB0OtOw)
+
+... and more
