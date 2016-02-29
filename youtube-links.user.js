@@ -13,7 +13,7 @@ var videoLinks = document.querySelectorAll("#content a[href ^= '/watch']")
 
 function getLinkCallback(link) {
   return () => {
-    var result = `[${link.textContent}](${link.href})`
+    var result = `- [${link.textContent.trim()}](${link.href})`
     GM_setClipboard(result)
   }
 }
