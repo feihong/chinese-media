@@ -4,6 +4,10 @@ Interesting Chinese or China-related videos
 
 # VICE shows/documentaries
 
+[The Land Where Women Rule: Inside China's Last Matriarchy](https://www.youtube.com/watch?v=t_l9D7tEixc)
+
+[From 'Iron Girls' to 'Leftovers' - Independent Women in China](https://www.youtube.com/watch?v=QarOjjKfseo)
+
 [Huang's World - Taiwan](https://www.youtube.com/watch?v=A-DATjPnJvk&list=PLnPDn1Lb79JEb7YK2N7WGItv1jVDd9u_8&index=5)
 
 [Huang's World - Back In Taiwan](https://www.youtube.com/watch?v=ZJDqYWrWHCo&list=PLnPDn1Lb79JEb7YK2N7WGItv1jVDd9u_8&index=11)
@@ -19,8 +23,6 @@ Interesting Chinese or China-related videos
 [China's Elite Female Bodyguards](https://www.youtube.com/watch?v=i0o7lajjzBg)
 
 [Dining on Dogs in Yulin](https://www.youtube.com/watch?v=YfaZeIxHFUM)
-
-[From 'Iron Girls' to 'Leftovers' - Independent Women in China](https://www.youtube.com/watch?v=QarOjjKfseo)
 
 [Hong Kong Tattoo Legend](https://www.youtube.com/watch?v=w-I6JsL54uc)
 
