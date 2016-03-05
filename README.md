@@ -1,3 +1,3 @@
 # Chinese Media Links
 
-Interesting Chinese or China-related videos
+A directory of interesting Chinese or China-related media
