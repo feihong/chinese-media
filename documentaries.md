@@ -32,3 +32,7 @@
 - [Meet the Grandfather of Chinese Rock](https://www.youtube.com/watch?v=14P1xXRp-Hg)
 - [Censorship on China's Sina Weibo: VICE Podcast 028](https://www.youtube.com/watch?v=dijRyV66r-k)
 - [Chinese Penis Restaurant](https://www.youtube.com/watch?v=isqOzB0OtOw)
+
+## Other
+
+- [Inside the Chinese Closet](https://vimeo.com/146087955)
