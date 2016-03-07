@@ -35,4 +35,4 @@
 
 ## Other
 
-- [Inside the Chinese Closet](https://vimeo.com/146087955)
+- [Inside the Chinese Closet](http://witfilm.nl/film/inside-the-chinese-closet/)
