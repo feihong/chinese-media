@@ -1,7 +1,5 @@
 # Travel
 
-[Huang's World](https://www.youtube.com/watch?v=7Xzsc28wvsg)
-
 ## NightOwlCinematics
 
 [NOC Travel playlist](https://www.youtube.com/playlist?list=PLI87wHY3Cs-zv1RjgJLuWbNTcGyrSqvPR)
