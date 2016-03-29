@@ -1,6 +1,6 @@
 # Movies
 
-- [老炮儿](https://www.youtube.com/results?search_query=%E8%80%81%E7%82%AE%E5%84%BF)
+- 美人鱼
 - 我的唐朝兄弟
 - 杀生
 - 斗牛
@@ -57,3 +57,10 @@
 - 双旗镇刀客
 - 欢乐英雄
 - 阴阳界
+- 重庆森林
+- 古惑仔之人在江湖
+- 春光乍泄
+
+## Seen
+
+- [老炮儿](https://www.youtube.com/results?search_query=%E8%80%81%E7%82%AE%E5%84%BF)
