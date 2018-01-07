@@ -73,25 +73,7 @@
 - 火锅英雄（6.8）
 - 北京遇上西雅图2（5.2）
 
-## 反派影评
-
-### 2016年内地院线“华语片十佳”
-
-[Source](http://mp.weixin.qq.com/s/MbLV5yNONF2JLGx9GxKDrw)
-
-（没有优先顺序）
-
-- 箭士柳白猿
-- 七月与安生
-- 追凶者也
-- 黑处有什么
-- 我不是潘金莲
-- 罗曼蒂克消亡史
-- 路边野餐
-- 长江图
-- 幸运是我
-- 驴得水
-- 火锅英雄
+[反派影评](https://github.com/feihong/chinese-media/blob/master/movies/fanpai-yingping.md)
 
 ## Recommended
 
